@@ -1,4 +1,5 @@
 {
+  "homepage": "https://leo-webdev7.github.io/My_Portfolio/",
   "name": "main",
   "private": true,
   "version": "0.0.0",
@@ -8,9 +9,12 @@
     "start": "vite",
     "build": "vite build",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d"
   },
   "dependencies": {
+    "gh-pages": "^6.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.11.1"

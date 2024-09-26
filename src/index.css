@@ -360,12 +360,55 @@ textarea {
   cursor: default;
   text-shadow: 3px 3px 15px rgba(255,255,255, .5);
 }
+@media only screen and (max-width: 1766px) {
+  nav {
+    position: static;
+    display: block;
+    z-index: 100;
+    margin: 30px auto;
+    font-size: 2.5rem;
+  }
+  header h1 {
+    display: block;
+    height: 30px;
+  }
+}
+
+@media only screen and (max-width: 1730px) {
+  nav {
+    position: static;
+    display: block;
+    z-index: 100;
+    margin: 44px auto;
+    font-size: 2rem;
+  }
+  header h1 {
+    display: block;
+    height: 30px;
+  }
+}
+
+@media only screen and (max-width: 1640px) {
+  nav {
+    position: static;
+    display: block;
+    z-index: 100;
+    margin: 0 auto;
+    font-size: 2rem;
+  }
+  header h1 {
+    display: block;
+    height: 30px;
+  }
+}
+
+
 @media only screen and (max-width: 1300px) {
   nav {
     position: static;
     display: block;
     z-index: 100;
-    margin: 0 10px;
+    margin: 0 auto;
     font-size: 2rem;
   }
   header h1 {
@@ -389,4 +432,51 @@ textarea {
     text-align: center;
     font-size: 2.3rem;
   }
+}
+
+@media only screen and (max-width: 766px) {
+  nav {
+    position: static;
+    display: block;
+    z-index: 100;
+    margin: 0 auto;
+    font-size: 1rem;
+    flex-direction: column;
+    max-width: 250px;
+  }
+  header h1 {
+    display: block;
+    margin: 5px 10px;
+    height: 15px;
+    width: 100%;
+    text-align: center;
+    font-size: 2.3rem;
+  }
+  textarea {
+    width: 300px
+  }
+  input {
+    width: 300px;
+  }
+}
+
+@media only screen and (max-width: 396px) {
+  nav {
+    position: static;
+    display: block;
+    z-index: 100;
+    margin: 0 auto;
+    font-size: 1rem;
+    flex-direction: column;
+    max-width: 250px;
+  }
+  header h1 {
+    display: block;
+    margin: 5px 10px;
+    height: 15px;
+    width: 100%;
+    text-align: center;
+    font-size: 1.5rem;
+  }
+
 }

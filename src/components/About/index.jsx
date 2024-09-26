@@ -6,9 +6,9 @@ function About() {
          {/* <i className="fas fa-user-circle" style={{ fontSize: "96px" }}></i>  */}
          {/* Replace the icon with an image */}
           <img 
-            src='../src/assets/profile/profile.jpg' 
+            src='../src/assets/profile/profile1.jpg' 
             alt="Profile" 
-            style={{ width: "100px", borderRadius: "50%", height: "120px" }} 
+            style={{ width: "100px", borderRadius: "50%", height: "130px" }} 
             />
         </div>
         <p>
