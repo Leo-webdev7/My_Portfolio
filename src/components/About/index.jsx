@@ -6,10 +6,10 @@ function About() {
         <i className="fas fa-user-circle" style={{ fontSize: "96px" }}></i>
         </div>
         <p>
-        Helvetica put a bird on it church-key Blue Bottle banjo bespoke brunch Etsy authentic Marfa quinoa typewriter plaid direct trade small batch wayfarers bicycle rights cliche craft beer gastropub single-origin coffee Godard Carles you probably haven't heard of them irony pickled kitsch synth sriracha gentrify literally heirloom blog Truffaut paleo scenester
+        I’m a full-stack software developer with a passion for building dynamic, efficient, and scalable applications. With experience across both front-end and back-end technologies, I enjoy tackling complex problems and creating solutions that offer seamless user experiences. I’m always excited to learn new tools, frameworks, and best practices to stay at the cutting edge of web development.
         </p>
         <p>
-        Echo Park sriracha Pinterest vegan biodiesel 90's irony iPhone Kickstarter Carles crucifix kitsch narwhal dreamcatcher pickled trust fund selvage art party letterpress Tumblr post-ironic kogi Thundercats Tonx Brooklyn Pitchfork Odd Future authentic normcore freegan leggings Schlitz chambray organic tousled retro fap squid street art church-key fashion axe Wes Anderson bespoke whatever gentrify banh mi you probably haven't heard of them American Apparel next level pug ugh.
+        I have a master's degree in economics, which gives me a unique perspective on problem-solving, data analysis, and system optimization. With a blend of technical and analytical skills, I enjoy designing solutions that are not only functional but also efficient and impactful in a real-world context.
         </p>
       </div>
     </section>
