@@ -26,7 +26,7 @@ function Portfolio() {
     {
       name: 'weatherForecast',
       description: 'Node.js/TypeScript/API/Server',
-      link: "https://github.com/Leo-webdev7/Weather_Forecast/deployments/github-pages",
+      link: "https://leo-webdev7.github.io/Weather_Forecast/",
       repo: "https://github.com/Leo-webdev7/Weather_Forecast"
     },
     {
