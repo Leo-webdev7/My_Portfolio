@@ -464,6 +464,9 @@ textarea {
   p {
     font-size: 0.4rem;
   }
+  #contact-form {
+    width: 50%;
+  }
 }
 
 @media only screen and (max-width: 396px) {
@@ -498,5 +501,17 @@ textarea {
   }
   .about {
     font-size: 0.8rem;
+  }
+  .contact_name {
+    font-size: 12px;
+  }
+  .contact_email {
+    font-size: 12px;
+  }
+  .contact_message {
+    font-size: 12px;
+  }
+  #contact-form {
+    width: 100%;
   }
 }
