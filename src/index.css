@@ -490,4 +490,7 @@ textarea {
   p {
     font-size: 0.4rem;
   }
+  .project {
+    margin: 10px;
+  }
 }
