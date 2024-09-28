@@ -489,10 +489,12 @@ textarea {
     padding: 0px;
   }
   p {
-    font-size: 0.4rem;
-    font-size: 0.6rem;
+    font-size: 0.5rem;
   }
   .project {
     margin: 10px;
+  }
+  .about {
+    font-size: 0.8rem;
   }
 }
