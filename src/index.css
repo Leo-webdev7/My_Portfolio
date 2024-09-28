@@ -485,10 +485,12 @@ textarea {
     font-size: 1.5rem;
   }
   .project-text h3 {
-    font-size: 0.5rem;
+    font-size: 0.9rem;
+    padding: 0px;
   }
   p {
     font-size: 0.4rem;
+    font-size: 0.6rem;
   }
   .project {
     margin: 10px;
