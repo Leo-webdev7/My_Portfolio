@@ -32,8 +32,10 @@ const router = createBrowserRouter([
       },
     ],
   },
-]);
+], {basename: "/My_Portfolio/"});
+
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <RouterProvider router={router} />
+
 );

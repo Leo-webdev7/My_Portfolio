@@ -458,6 +458,12 @@ textarea {
   input {
     width: 300px;
   }
+  .project-text h3 {
+    font-size: 0.5rem;
+  }
+  p {
+    font-size: 0.4rem;
+  }
 }
 
 @media only screen and (max-width: 396px) {
@@ -478,5 +484,10 @@ textarea {
     text-align: center;
     font-size: 1.5rem;
   }
-
+  .project-text h3 {
+    font-size: 0.5rem;
+  }
+  p {
+    font-size: 0.4rem;
+  }
 }
