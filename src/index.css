@@ -467,6 +467,9 @@ textarea {
   #contact-form {
     width: 50%;
   }
+  .about {
+    font-size: 0.8rem;
+  }
 }
 
 @media only screen and (max-width: 396px) {
