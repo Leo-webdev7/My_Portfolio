@@ -35,7 +35,7 @@ Once the site is running, you can navigate through the following sections: 1. Ab
 
 ![2024-09-30_133117](https://github.com/user-attachments/assets/3004869a-1826-42e0-a0c0-f8bfaa1b00e7)
 
-# Mobile devices 
+### Mobile devices 
 
 ![2024-09-30_133401](https://github.com/user-attachments/assets/962d4224-6c92-41e2-9882-8518974c1cdf)
 
