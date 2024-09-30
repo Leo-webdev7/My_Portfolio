@@ -7,6 +7,7 @@
 * [Description](#description)
 * [Installation](#installation)
 * [Usage Information](#usage-information)
+* [Live Recording of Application Functionality](#live-recording-of-application-functionality)
 * [Screenshots](#screenshots)
 * [Contribution Guidelines](#contribution-guidelines)
 * [Test Instructions](#test-instructions)
@@ -24,6 +25,8 @@ Welcome to my personal portfolio website. This site showcases my skills, project
 ## Usage Information
 
 Once the site is running, you can navigate through the following sections: 1. About Me. 2. Portfolio. 3. Contact. 4. Resume. Feel free to customize the content and structure to better suit your style and projects.
+
+## Live Recording of Application Functionality
 
 ## Screenshots
 
