@@ -35,7 +35,7 @@ Once the site is running, you can navigate through the following sections: 1. Ab
 
 ![2024-09-30_133117](https://github.com/user-attachments/assets/3004869a-1826-42e0-a0c0-f8bfaa1b00e7)
 
-#Mobile devices 
+# Mobile devices 
 
 ![2024-09-30_133401](https://github.com/user-attachments/assets/962d4224-6c92-41e2-9882-8518974c1cdf)
 
@@ -44,6 +44,10 @@ Once the site is running, you can navigate through the following sections: 1. Ab
 ![2024-09-30_133514](https://github.com/user-attachments/assets/76d7b727-90d9-42cb-aba0-11ce7b8d3c3b)
 
 ![2024-09-30_133531](https://github.com/user-attachments/assets/fca66f11-fd57-47ee-bf7a-da4f6d39e78f)
+
+## Links
+
+
 
 ## Contribution Guidelines
 
