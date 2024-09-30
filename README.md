@@ -7,8 +7,8 @@
 * [Description](#description)
 * [Installation](#installation)
 * [Usage Information](#usage-information)
-* [Live Recording of Application Functionality](#live-recording-of-application-functionality)
 * [Screenshots](#screenshots)
+* [Links](#links)
 * [Contribution Guidelines](#contribution-guidelines)
 * [Test Instructions](#test-instructions)
 * [License](#license)
@@ -25,8 +25,6 @@ Welcome to my personal portfolio website. This site showcases my skills, project
 ## Usage Information
 
 Once the site is running, you can navigate through the following sections: 1. About Me. 2. Portfolio. 3. Contact. 4. Resume. Feel free to customize the content and structure to better suit your style and projects.
-
-## Live Recording of Application Functionality
 
 ## Screenshots
 
@@ -50,7 +48,13 @@ Once the site is running, you can navigate through the following sections: 1. Ab
 
 ## Links
 
+### Live Recording of Application Functionality
 
+https://drive.google.com/file/d/1Dp3FVvZr4jubPchzXg88ycpRhOEvuc2C/view?usp=drive_link
+
+### Deployment link
+
+https://leo-webdev7.github.io/My_Portfolio/
 
 ## Contribution Guidelines
 
