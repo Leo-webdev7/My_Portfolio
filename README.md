@@ -19,7 +19,7 @@ Welcome to my personal portfolio website. This site showcases my skills, project
 
 ## Installation
 
-1. Clone the repository. 2. Install dependencies: Make sure you have Node.js and npm installed. Then run the following command: npm install. 3. Start website in the browser: npm run start
+1. Clone the repository https://github.com/Leo-webdev7/My_Portfolio. 2. Install dependencies: Make sure you have Node.js and npm installed. Then run the following command: npm install. 3. Start website in the browser: npm run start
 
 ## Usage Information
 
