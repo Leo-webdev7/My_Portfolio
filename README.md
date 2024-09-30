@@ -7,6 +7,7 @@
 * [Description](#description)
 * [Installation](#installation)
 * [Usage Information](#usage-information)
+* [Screenshots](#screenshots)
 * [Contribution Guidelines](#contribution-guidelines)
 * [Test Instructions](#test-instructions)
 * [License](#license)
@@ -23,6 +24,17 @@ Welcome to my personal portfolio website. This site showcases my skills, project
 ## Usage Information
 
 Once the site is running, you can navigate through the following sections: 1. About Me. 2. Portfolio. 3. Contact. 4. Resume. Feel free to customize the content and structure to better suit your style and projects.
+
+## Screenshots
+
+![2024-09-30_132932](https://github.com/user-attachments/assets/24a622fe-a569-4b4b-9df3-f62ee50ed41b)
+
+![2024-09-30_132958](https://github.com/user-attachments/assets/f6537e72-0ff4-4c84-ba40-50f4a5a4969c)
+
+![2024-09-30_133047](https://github.com/user-attachments/assets/20e17dd2-edaf-4318-aa37-ffcb5c62ae57)
+
+![2024-09-30_133117](https://github.com/user-attachments/assets/3004869a-1826-42e0-a0c0-f8bfaa1b00e7)
+
 
 ## Contribution Guidelines
 
