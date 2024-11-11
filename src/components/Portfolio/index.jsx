@@ -35,6 +35,18 @@ function Portfolio() {
       link: "https://leo-webdev7.github.io/Staff_Monitor/",
       repo: "https://github.com/Leo-webdev7/Staff_Monitor"
     },
+    {
+      name: 'Amygdala',
+      description: 'Mental Health APP NODE.js/TypeScript/SQL/CSS/Express/JWT',
+      link: "https://amygdala.onrender.com/",
+      repo: "https://github.com/ChinaCat1998/Amygdala-App"
+    },
+    {
+      name: 'CandidateNavigator',
+      description: 'NODE.js/TypeScript/SQL/CSS/GitHub Token',
+      link: "https://candidate-navigator.onrender.com/",
+      repo: "https://github.com/Leo-webdev7/Candidate_Navigator"
+    },
   ]);
 
   return (
