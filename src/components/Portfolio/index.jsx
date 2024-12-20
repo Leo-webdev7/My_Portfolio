@@ -47,6 +47,12 @@ function Portfolio() {
       link: "https://candidate-navigator.onrender.com/",
       repo: "https://github.com/Leo-webdev7/Candidate_Navigator"
     },
+    {
+      name: 'CarPatron',
+      description: 'NODE.js/TypeScript/ApolloServer MongoDB/GraphQL/CSS/JWT/REACT',
+      link: "https://car-patron-app.onrender.com/",
+      repo: "https://github.com/Leo-webdev7/CarPatronApp"
+    },
   ]);
 
   return (
