@@ -8,11 +8,11 @@ function Footer() {
     },
     {
       name: "fab fa-linkedin",
-      link: "www.linkedin.com/leonid-shapirov-a78730251"
+      link: "https://www.linkedin.com/in/leonid-shapirov-a78730251"
     },
     {
       name: "fab fa-stack-overflow",
-      link: "https://stackoverflow.com/"
+      link: "https://stackoverflow.com/users/24442967/leonid-shapirov"
     }
   ]
 
